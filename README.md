@@ -1,1 +1,1 @@
-# FarmLinkAI
+FarmLink AI is a application where customers can directly buy a farm products from the farmers without middlemen. It also includes features like crop, fertilizer recommendation and prediction of crop disease . 
